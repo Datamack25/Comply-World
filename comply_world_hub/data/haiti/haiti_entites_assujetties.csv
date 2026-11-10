@@ -1,0 +1,20 @@
+﻿type_entite,famille,base_legale,autorite_controle,seuil_declencheur,vulnerabilite_enr,niveau_enr,points_attention
+Banque,Institution financière,Art. 4,BRH,Toute relation d'affaires,0.43,Moyennement faible à moyen,"Virements internationaux (0,63), dépôts de personnes morales (0,57), crédit grandes entreprises (0,57) : produits les plus vulnérables"
+Société de promotion des investissements / titres,Institution financière,Art. 4,BRH,Toute relation d'affaires,0.36,Moyennement faible,Secteur titres régulé et supervisé par la BRH
+Société de cartes de crédit,Institution financière,Art. 4,BRH,Toute relation d'affaires,,Non noté séparément,Contrôle des porteurs et des marchands
+Société financière de développement (SFD),Institution financière,Art. 4 ; Loi du 7 octobre 1982,BRH,Toute relation d'affaires,0.2,Moyennement faible,2 institutions dont 1 publique ; activité centrée sur le crédit
+Société de crédit-bail,Institution financière,Art. 4 ; Décret du 9 avril 2020,BRH,Toute relation d'affaires,,Non noté séparément,Origine des fonds des preneurs et apports
+Institution de microfinance (IMF),Institution financière,Art. 4 ; Décret du 5 juin 2020,BRH,Toute relation d'affaires,0.4,Moyen,"Forte dépendance aux espèces, clientèle potentiellement à risque"
+Coopérative d'épargne et de crédit (CEC),Institution financière,Art. 4 ; Loi du 26 juin 2002,BRH,Toute relation d'affaires,0.6,Moyennement élevé,Poids croissant dans l'épargne ; dispositif de conformité inégal ; manque de formation
+Maison de transfert,Institution financière,Art. 4 ; Décret du 6 juillet 1989,BRH,Toute opération,0.6,Moyennement élevé,~3 milliards USD/an de flux transfrontaliers ; forte dépendance aux espèces
+Intermédiaire / bureau de change,Institution financière,Art. 4 ; Décret du 25 novembre 2020,BRH,Toute opération,0.3,Moyennement faible,"Activité régulée, double KYC via les banques ; moyens humains et technologiques insuffisants"
+"Compagnie, agent ou courtier d'assurance",Institution financière,Art. 4,MEF — UCSA,Toute relation d'affaires,0.5,Moyen,Supervision à professionnaliser ; préparer un éventuel retour de l'assurance vie (axe e)
+"Casino, loterie, borlette, établissement de jeux",EPNFD,Art. 5,Autorité à désigner (LEH / MEF),Opérations ≥ 50 000 HTG ; identification des joueurs ≥ 500 000 HTG,0.86,Élevé,Volume important d'espèces ; casinos sans encadrement légal clair ; aucune DOS reçue
+Agent / société immobilière,EPNFD,Art. 5,Aucune autorité désignée,Opérations d'achat/vente et conseil,0.86,Élevé,Aucune DOS jamais transmise à l'UCREF ; prédominance des espèces ; forte informalité
+Comptable,EPNFD,Art. 5,OCPAH (organisme d'autorégulation),Activités listées à l'art. 5,0.73,Moyennement élevé,Aucune procédure ni outil de conformité constatés
+Avocat / juriste indépendant,EPNFD,Art. 5,Barreaux / FBH (organismes d'autorégulation),Activités listées à l'art. 5,0.73,Moyennement élevé,Faible sensibilisation ; pas de supervision LBC/FT ciblée des barreaux
+Notaire,EPNFD,Art. 5,SNJH / ASNOP (organismes d'autorégulation),Activités listées à l'art. 5,0.72,Moyennement élevé,"Meilleure compréhension des obligations, mais absence de directives et de cadre de supervision"
+"Négociant en métaux et pierres précieuses, antiquités, œuvres d'art",EPNFD,Art. 5,Autorité à désigner,Opérations en espèces ≥ 2 500 000 HTG,,Non évalué (ENR),"Déclaration des transactions en espèces ≥ 2,5 M HTG (art. 17)"
+Prestataire de services aux sociétés et fiducies,EPNFD,Art. 5,Autorité à désigner,"Constitution, domiciliation, mandats",,Non évalué (ENR),Transparence des BE
+Prestataire de services d'actifs virtuels (PSAV),PSAV,Art. 6 (définition),Régime réglementaire à préciser (BRH),Opérations ≥ 150 000 HTG,,Non évalué (ENR),Régime à préciser par voie réglementaire ; appliquer la règle de voyage (R.16 GAFI)
+Organisme à but non lucratif (OBNL / ONG),OBNL,Art. 71-72,MJSP (approche fondée sur les risques),OBNL à risque identifiés par le MJSP,,Voir ENR ch. 5 (FT),Identification des OBNL exposés au FT et mesures ciblées

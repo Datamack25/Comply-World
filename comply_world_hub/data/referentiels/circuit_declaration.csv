@@ -1,0 +1,33 @@
+﻿juridiction,etape_no,etape,acteur,detail
+France / UE,1,Détection,Équipes / outils,Alerte d'un outil de surveillance ou remontée d'un collaborateur
+France / UE,2,Analyse,Conformité,"Examen renforcé : profil client, cohérence, origine des fonds"
+France / UE,3,Décision,Déclarant Tracfin,Décision motivée et documentée
+France / UE,4,Déclaration,Tracfin (ERMES),"Avant l'exécution de l'opération, en principe"
+France / UE,5,Opposition éventuelle,Tracfin,Report de l'opération pendant 10 jours ouvrables
+France / UE,6,Suites,Tracfin / procureur,"Analyse, transmission éventuelle à l'autorité judiciaire ; confidentialité maintenue"
+Haïti,1,Détection,Équipes / outils,"Alerte, opération inhabituelle, tentative"
+Haïti,2,Analyse,Conformité,"Examen renforcé (art. 22), recherches complémentaires"
+Haïti,3,Décision,Responsable de la conformité,Décision documentée
+Haïti,4,Déclaration,UCREF,"Sans délai, quel que soit le montant (art. 19 à 21)"
+Haïti,5,Opposition éventuelle,UCREF,Blocage de l'opération pendant 48 heures (art. 24)
+Haïti,6,Suites,UCREF / parquet / pôle financier,Transmission éventuelle au parquet ; vigilance renforcée ; confidentialité
+États-Unis,1,Detection,Équipes / outils,"Alerte de monitoring, 314(a), remontée interne"
+États-Unis,2,Investigation,BSA/AML,Enquête et documentation
+États-Unis,3,Décision,BSA Officer / comité,Décision de déposer ou non
+États-Unis,4,SAR,FinCEN (BSA E-Filing),Sous 30 jours après la détection
+États-Unis,5,Activité continue,BSA/AML,"Revue à 90 jours, SAR de suivi"
+États-Unis,6,Suites,FinCEN / forces de l'ordre,Exploitation par les autorités ; confidentialité du SAR
+Canada,1,Détection,Équipes / outils,Alerte ou remontée interne
+Canada,2,Analyse,Conformité,Motifs raisonnables de soupçonner
+Canada,3,Décision,Agent de conformité,Décision documentée
+Canada,4,Déclaration,CANAFE,"Dès que possible, sans seuil"
+Canada,5,Suites,CANAFE / forces de l'ordre,Communication aux autorités ; confidentialité
+Mexique,1,Detección,Équipes / outils,Alerte de monitoring
+Mexique,2,Análisis,Oficial de cumplimiento,Analyse de l'opération
+Mexique,3,Decisión,Comité de Comunicación y Control,Décision collégiale
+Mexique,4,Reporte,UIF (via CNBV ou SAT),Délai fixé par les DCG — à confirmer
+Mexique,5,Suites,UIF / FGR,Transmission éventuelle au parquet
+République dominicaine,1,Detección,Équipes / outils,Alerte ou remontée interne
+République dominicaine,2,Análisis,Oficial de cumplimiento,Analyse de l'opération
+République dominicaine,3,Reporte,UAF,ROS — délai légal à confirmer
+République dominicaine,4,Suites,UAF / Ministerio Público,Transmission éventuelle au parquet

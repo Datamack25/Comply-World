@@ -1,0 +1,116 @@
+﻿juridiction,rubrique,ordre,element,detail,lien,fiabilite
+France / UE,1. Cadre légal LCB-FT,1,"Code monétaire et financier, art. L561-1 et s.",Socle des obligations préventives jusqu'à l'application de l'AMLR,https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000006154830/,Source officielle
+France / UE,1. Cadre légal LCB-FT,2,Arrêté du 6 janvier 2021,Dispositif et contrôle interne LCB-FT et gel des avoirs,https://www.legifrance.gouv.fr/search/all?query=arr%C3%AAt%C3%A9+du+6+janvier+2021+dispositif+contr%C3%B4le+interne+blanchiment+gel+des+avoirs,Source officielle
+France / UE,1. Cadre légal LCB-FT,3,AMLR — Règlement (UE) 2024/1624,Règlement unique applicable au 10 juillet 2027,https://eur-lex.europa.eu/eli/reg/2024/1624/oj,Source officielle
+France / UE,1. Cadre légal LCB-FT,4,AMLD6 — Directive (UE) 2024/1640,"CRF, superviseurs, registres",https://eur-lex.europa.eu/eli/dir/2024/1640/oj,Source officielle
+France / UE,1. Cadre légal LCB-FT,5,Règlement AMLA (UE) 2024/1620,Autorité européenne ; supervision directe dès 2028,https://eur-lex.europa.eu/eli/reg/2024/1620/oj,Source officielle
+France / UE,1. Cadre légal LCB-FT,6,TFR — Règlement (UE) 2023/1113,Informations accompagnant les transferts de fonds et de crypto-actifs,https://eur-lex.europa.eu/eli/reg/2023/1113/oj,Source officielle
+France / UE,2. Entités assujetties,1,Secteur financier,"Établissements de crédit, de paiement et de monnaie électronique ; entreprises d'assurance et intermédiaires ; entreprises d'investissement et sociétés de gestion ; changeurs manuels ; prestataires de services sur crypto-actifs",https://www.legifrance.gouv.fr/search/all?query=article+L561-2+code+mon%C3%A9taire+et+financier,Source officielle
+France / UE,2. Entités assujetties,2,Professions non financières,"Notaires, avocats, commissaires de justice, experts-comptables, commissaires aux comptes ; agents immobiliers ; casinos et opérateurs de jeux ; marchands d'art et de biens de grande valeur ; domiciliataires ; administrateurs et mandataires judiciaires",https://www.legifrance.gouv.fr/search/all?query=article+L561-2+code+mon%C3%A9taire+et+financier,Source officielle
+France / UE,3. Autorités de contrôle,1,ACPR,"Banques, établissements de paiement et de monnaie électronique, assurances",https://acpr.banque-france.fr,Source officielle
+France / UE,3. Autorités de contrôle,2,AMF,"Entreprises d'investissement (marchés), sociétés de gestion, prestataires sur crypto-actifs",https://www.amf-france.org,Source officielle
+France / UE,3. Autorités de contrôle,3,"DGCCRF, ANJ, ordres professionnels","Agents immobiliers et domiciliataires ; jeux ; professions du chiffre et du droit (CNB, CSN, H2A, CNOEC)",,Source officielle
+France / UE,4. Déclaration de soupçon : à qui et comment,1,Cellule de renseignement financier,Tracfin (ministère de l'Économie),https://www.economie.gouv.fr/tracfin,Source officielle
+France / UE,4. Déclaration de soupçon : à qui et comment,2,Canal,"Télédéclaration sur ERMES, par le déclarant et le correspondant Tracfin désignés",https://www.economie.gouv.fr/tracfin/vous-etes-professionnel-declarant/ermes-la-plateforme-de-declaration-en-ligne-de-tracfin,Source officielle
+France / UE,4. Déclaration de soupçon : à qui et comment,3,Quoi déclarer,"Sommes ou opérations dont on sait, soupçonne ou a de bonnes raisons de soupçonner qu'elles proviennent d'une infraction punie de plus d'un an d'emprisonnement ou participent au financement du terrorisme (CMF L561-15)",https://www.legifrance.gouv.fr/search/all?query=article+L561-15+code+mon%C3%A9taire+et+financier,Source officielle
+France / UE,4. Déclaration de soupçon : à qui et comment,4,Quand,"En principe avant l'exécution de l'opération ; à défaut, sans délai après",https://www.economie.gouv.fr/tracfin/vous-etes-professionnel-declarant/quand-et-comment-declarer-un-soupcon,Source officielle
+France / UE,4. Déclaration de soupçon : à qui et comment,5,Opposition et confidentialité,Tracfin peut s'opposer à l'exécution (10 jours ouvrables) ; interdiction de révéler l'existence de la déclaration (L561-18),,Source officielle
+France / UE,4. Déclaration de soupçon : à qui et comment,6,Cas particulier,"Avocats : déclaration au bâtonnier, qui transmet à Tracfin (L561-17)",,Source officielle
+France / UE,5. Seuils et limites de transaction,1,Paiements en espèces,1 000 € pour les résidents ; 15 000 € pour les non-résidents (dépenses personnelles),https://www.legifrance.gouv.fr/search/all?query=article+L112-6+code+mon%C3%A9taire+et+financier,Source officielle
+France / UE,5. Seuils et limites de transaction,2,Argent liquide aux frontières de l'UE,Déclaration obligatoire à partir de 10 000 €,https://eur-lex.europa.eu/eli/reg/2018/1672/oj,Source officielle
+France / UE,5. Seuils et limites de transaction,3,Opérations occasionnelles,Vigilance au-delà de 15 000 € (seuils réduits pour certains secteurs),,Source officielle
+France / UE,5. Seuils et limites de transaction,4,Plafond européen,10 000 € pour les paiements en espèces à compter du 10 juillet 2027 (AMLR),https://eur-lex.europa.eu/eli/reg/2024/1624/oj,Source officielle
+France / UE,"6. Bénéficiaire effectif, KYC et KYB",1,Bénéficiaire effectif,"Personne physique détenant plus de 25 % du capital ou des droits de vote, ou exerçant un contrôle (R561-1)",https://www.legifrance.gouv.fr/search/all?query=article+R561-1+code+mon%C3%A9taire+et+financier,Source officielle
+France / UE,"6. Bénéficiaire effectif, KYC et KYB",2,Registre des bénéficiaires effectifs,Consultation obligatoire ; signalement des divergences,https://data.inpi.fr,Source officielle
+France / UE,"6. Bénéficiaire effectif, KYC et KYB",3,KYC,Identification et vérification avant l'entrée en relation ; vérification à distance selon R561-5-1 ; objet et nature de la relation,,Source officielle
+France / UE,"6. Bénéficiaire effectif, KYC et KYB",4,KYB,"Kbis, statuts, liste des dirigeants et mandataires, organigramme de détention jusqu'aux personnes physiques",,Source officielle
+France / UE,"6. Bénéficiaire effectif, KYC et KYB",5,PPE et revue,Vigilance renforcée des PPE (L561-10) ; AMLR : revue annuelle (risque élevé) et quinquennale (autres),,Source officielle
+France / UE,7. Sanctions financières et gel des avoirs,1,Gel des avoirs,Gel sans délai et déclaration à la DG Trésor (CMF L562-1 et s.),https://www.legifrance.gouv.fr/search/all?query=article+L562-1+code+mon%C3%A9taire+et+financier,Source officielle
+France / UE,7. Sanctions financières et gel des avoirs,2,Registre national des gels,"Mesures nationales, UE et ONU",https://gels-avoirs.dgtresor.gouv.fr,Source officielle
+France / UE,7. Sanctions financières et gel des avoirs,3,Lignes directrices ACPR – DG Trésor,Mise en œuvre du gel des avoirs,https://acpr.banque-france.fr/system/files/2025-01/20210616_lignes_directrices_gel_des_avoirs.pdf,Source officielle
+France / UE,7. Sanctions financières et gel des avoirs,4,Mesures restrictives de l'UE,Carte des sanctions de l'Union,https://www.sanctionsmap.eu,Source officielle
+France / UE,8. Organismes de référence,1,GAFI,Normes internationales (40 recommandations),https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html,Source officielle
+France / UE,8. Organismes de référence,2,AMLA,Normes techniques européennes,https://www.amla.europa.eu,Source officielle
+France / UE,8. Organismes de référence,3,Groupe Egmont,Réseau des cellules de renseignement financier,https://egmontgroup.org,Source officielle
+Haïti,1. Cadre légal LCB-FT,1,Décret du 30 avril 2023,"Texte cadre BC/FT/FP (Le Moniteur, Spécial n°12 du 4 mai 2023)",https://www.pressesnationalesdhaiti.ht,Source officielle
+Haïti,1. Cadre légal LCB-FT,2,Décret de réorganisation de l'UCREF,"Le Moniteur, Spécial n°30 du 21 novembre 2023",https://www.ucref.gouv.ht,Source officielle
+Haïti,1. Cadre légal LCB-FT,3,Circulaire BRH 129-1 (6 février 2026),Mesures préventives des institutions financières,https://www.brh.ht/wp-content/uploads/Circulaire-CIR-.-BRH-IF-2026-129-1-Aux-Institutions-FinancieEres-6-feevrier-2026-Lutte-contre-le-blanchiment-de-capitaux._0001.pdf,Source officielle
+Haïti,1. Cadre légal LCB-FT,4,Autres circulaires BRH,"95-5 (seuils de déclaration), 99-4 et 100-4 (banques), 107-3 (maisons de transfert), 89-2 (contrôle interne)",https://www.brh.ht/notes-de-presse/?act=circulaires,Source officielle
+Haïti,1. Cadre légal LCB-FT,5,Évaluation nationale des risques,"CNLBA, décembre 2025 : risque global élevé",https://www.brh.ht/wp-content/uploads/Rapport_ENR.pdf,Source officielle
+Haïti,2. Entités assujetties,1,Institutions financières (art. 4),"Banques, sociétés de promotion des investissements, cartes de crédit, SFD, crédit-bail, IMF, CEC, maisons de transfert, intermédiaires de change, assurances",,Source officielle
+Haïti,2. Entités assujetties,2,EPNFD (art. 5),"Casinos, loteries, borlettes ; agents immobiliers ; notaires, avocats, comptables ; négociants en métaux et pierres précieuses ; prestataires de services aux sociétés et fiducies",,Source officielle
+Haïti,2. Entités assujetties,3,Autres,Prestataires de services d'actifs virtuels (art. 6) ; OBNL à risque (art. 71-72),,Source officielle
+Haïti,3. Autorités de contrôle,1,BRH,"Institutions financières, maisons de transfert, CEC, IMF, bureaux de change",https://www.brh.ht,Source officielle
+Haïti,3. Autorités de contrôle,2,UCSA (MEF),"Compagnies, agents et courtiers d'assurance",,Source officielle
+Haïti,3. Autorités de contrôle,3,MJSP,Organismes à but non lucratif,,Source officielle
+Haïti,3. Autorités de contrôle,4,Organismes d'autorégulation,"Notaires (SNJH / ASNOP), avocats (barreaux / FBH), comptables (OCPAH)",,Source officielle
+Haïti,3. Autorités de contrôle,5,À désigner,"Immobilier et jeux de hasard : autorité de supervision à désigner (ENR, axe d)",,Source officielle
+Haïti,4. Déclaration de soupçon : à qui et comment,1,Cellule de renseignement financier,UCREF — Unité centrale de renseignements financiers,https://www.ucref.gouv.ht,Source officielle
+Haïti,4. Déclaration de soupçon : à qui et comment,2,Quoi et quand,"DOS sans délai, quel que soit le montant, y compris les tentatives (art. 19 à 21)",,Source officielle
+Haïti,4. Déclaration de soupçon : à qui et comment,3,Canal,Selon les modalités fixées par l'UCREF (formulaire et transmission sécurisée),https://www.ucref.gouv.ht,À confirmer
+Haïti,4. Déclaration de soupçon : à qui et comment,4,Opposition,L'UCREF peut s'opposer à l'exécution pendant 48 heures (art. 24),,Source officielle
+Haïti,4. Déclaration de soupçon : à qui et comment,5,Confidentialité,Révéler la déclaration ou s'abstenir de déclarer : 10 à 15 ans de réclusion et 2 à 100 millions HTG ; secret professionnel non opposable ; immunité de bonne foi,,Source officielle
+Haïti,4. Déclaration de soupçon : à qui et comment,6,Déclarations de transactions,Selon les seuils de la circulaire BRH 95-5 (art. 16 à 18),https://www.brh.ht/notes-de-presse/?act=circulaires,Source officielle
+Haïti,5. Seuils et limites de transaction,1,Paiements en espèces,Interdits au-delà de 400 000 HTG ; amende de 250 000 HTG par transaction (art. 73),,Source officielle
+Haïti,5. Seuils et limites de transaction,2,Jeux de hasard,Assujettissement à partir de 50 000 HTG ; identification des joueurs à partir de 500 000 HTG,,Source officielle
+Haïti,5. Seuils et limites de transaction,3,Métaux et pierres précieuses,Opérations en espèces à partir de 2 500 000 HTG,,Source officielle
+Haïti,5. Seuils et limites de transaction,4,Actifs virtuels,Opérations à partir de 150 000 HTG régies par voie réglementaire,,Source officielle
+Haïti,5. Seuils et limites de transaction,5,Espèces aux frontières,Déclaration à l'AGD au-delà du seuil fixé par le MEF (art. 14-15),,Source officielle
+Haïti,"6. Bénéficiaire effectif, KYC et KYB",1,Bénéficiaire effectif,"Personne physique détenant plus de 10 % du capital ou des droits de vote, ou exerçant un contrôle (art. 6)",,Source officielle
+Haïti,"6. Bénéficiaire effectif, KYC et KYB",2,KYC,Identification et vérification sur documents fiables ; objet et nature de la relation (art. 25 à 40),,Source officielle
+Haïti,"6. Bénéficiaire effectif, KYC et KYB",3,KYB,"Statuts, registre de commerce (incomplet selon l'ENR : sources complémentaires), dirigeants, chaîne de détention",,Source officielle
+Haïti,"6. Bénéficiaire effectif, KYC et KYB",4,PPE,"PPE étrangères, nationales et d'organisations internationales : vigilance renforcée (art. 63 à 66)",,Source officielle
+Haïti,7. Sanctions financières et gel des avoirs,1,Gel des fonds,Gel sans délai des fonds des personnes désignées par le Conseil de sécurité (art. 97 à 112),,Source officielle
+Haïti,7. Sanctions financières et gel des avoirs,2,Lignes directrices BRH,"Sanctions financières ciblées (terrorisme et prolifération), 16 février 2026",https://www.brh.ht/notes-de-presse/?act=circulaires,Source officielle
+Haïti,7. Sanctions financières et gel des avoirs,3,Régime ONU Haïti,Comité des sanctions créé par la résolution 2653,https://main.un.org/securitycouncil/en/sanctions/2653,Source officielle
+Haïti,7. Sanctions financières et gel des avoirs,4,OFAC,"Désignations visant des acteurs haïtiens, à filtrer pour les flux en dollars",https://sanctionssearch.ofac.treas.gov,Source officielle
+Haïti,8. Organismes de référence,1,GAFI,"Haïti sous surveillance renforcée (liste grise, octobre 2026)",https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html,Source officielle
+Haïti,8. Organismes de référence,2,GAFIC,Organisme régional d'évaluation (Caraïbes),https://www.cfatf-gafic.org,Source officielle
+Haïti,8. Organismes de référence,3,Groupe Egmont,"Adhésion de l'UCREF recherchée (ENR, axe h)",https://egmontgroup.org,Source officielle
+Haïti,8. Organismes de référence,4,UNODC,Appui aux pôles judiciaires et aux institutions anticorruption,https://www.unodc.org,Source officielle
+États-Unis,1. Cadre légal LCB-FT,1,Bank Secrecy Act et AML Act of 2020,Socle fédéral ; règles FinCEN au 31 CFR chapitre X,https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X,Source officielle
+États-Unis,1. Cadre légal LCB-FT,2,FFIEC BSA/AML Examination Manual,Référentiel d'examen des superviseurs bancaires,https://bsaaml.ffiec.gov/manual,Source officielle
+États-Unis,2. Entités assujetties,1,Institutions couvertes,"Banques, money services businesses, broker-dealers, casinos, assureurs (produits couverts), négociants en métaux précieux, systèmes de cartes, prêteurs non bancaires",,Source officielle
+États-Unis,3. Autorités de contrôle,1,FinCEN et superviseurs délégués,"OCC, Fed, FDIC, NCUA, SEC, FINRA, IRS (MSB et casinos), régulateurs d'État",https://www.fincen.gov,Source officielle
+États-Unis,4. Déclaration de soupçon : à qui et comment,1,Cellule de renseignement financier,FinCEN,https://www.fincen.gov,Source officielle
+États-Unis,4. Déclaration de soupçon : à qui et comment,2,Canal,Suspicious Activity Report (SAR) sur BSA E-Filing,https://bsaefiling.fincen.treas.gov,Source officielle
+États-Unis,4. Déclaration de soupçon : à qui et comment,3,Délais et seuils,30 jours après la détection (60 si le suspect n'est pas identifié) ; seuils de 5 000 USD (banques) et 2 000 USD (MSB),,Source officielle
+États-Unis,4. Déclaration de soupçon : à qui et comment,4,Confidentialité,Interdiction de révéler un SAR ; protection (safe harbor) du déclarant de bonne foi,,Source officielle
+États-Unis,5. Seuils et limites de transaction,1,Currency Transaction Report,Opérations en espèces de plus de 10 000 USD par jour,,Source officielle
+États-Unis,5. Seuils et limites de transaction,2,Travel rule,Transferts de fonds à partir de 3 000 USD,,Source officielle
+États-Unis,5. Seuils et limites de transaction,3,Transport d'espèces (CMIR),Plus de 10 000 USD à l'entrée ou à la sortie du territoire,,Source officielle
+États-Unis,"6. Bénéficiaire effectif, KYC et KYB",1,Bénéficiaire effectif,"CDD Rule : 25 % ou plus, plus une personne exerçant le contrôle ; CTA : déclaration limitée aux sociétés étrangères depuis mars 2025",,Source officielle
+États-Unis,"6. Bénéficiaire effectif, KYC et KYB",2,KYC,Customer Identification Program (CIP) et vigilance continue,,Source officielle
+États-Unis,7. Sanctions financières et gel des avoirs,1,OFAC,"Liste SDN, blocage, déclaration sous 10 jours ouvrables",https://sanctionssearch.ofac.treas.gov,Source officielle
+États-Unis,8. Organismes de référence,1,GAFI,Rapport d'évaluation mutuelle attendu en décembre 2026,https://www.fatf-gafi.org,Source officielle
+Canada,1. Cadre légal LCB-FT,1,LRPCFAT / PCMLTFA et règlements,Modifiés par les lois C-12 et C-15 (sanction royale le 26 mars 2026),https://laws-lois.justice.gc.ca/fra/lois/p-24.501/,Source officielle
+Canada,2. Entités assujetties,1,Entités déclarantes,"Entités financières, assureurs-vie, courtiers en valeurs mobilières, entreprises de services monétaires, casinos, négociants en métaux et pierres précieuses, courtiers et promoteurs immobiliers, comptables, notaires de la C.-B.",,Source officielle
+Canada,3. Autorités de contrôle,1,CANAFE / FINTRAC,Cellule de renseignement financier et superviseur LCB-FT ; BSIF pour le prudentiel,https://fintrac-canafe.canada.ca,Source officielle
+Canada,4. Déclaration de soupçon : à qui et comment,1,Cellule de renseignement financier,CANAFE / FINTRAC,https://fintrac-canafe.canada.ca,Source officielle
+Canada,4. Déclaration de soupçon : à qui et comment,2,Quoi et quand,"Déclaration d'opération douteuse dès que possible, sans seuil, y compris les tentatives",,Source officielle
+Canada,4. Déclaration de soupçon : à qui et comment,3,Confidentialité,Interdiction de révéler la déclaration (LRPCFAT art. 8),,Source officielle
+Canada,5. Seuils et limites de transaction,1,Déclarations de seuil,"Espèces, télévirements internationaux et actifs virtuels de 10 000 CAD ou plus (règle des 24 heures)",,Source officielle
+Canada,5. Seuils et limites de transaction,2,Règle de déplacement,Télévirements et transferts d'actifs virtuels à partir de 1 000 CAD,,Source officielle
+Canada,"6. Bénéficiaire effectif, KYC et KYB",1,Bénéficiaire effectif,25 % ou plus ; signalement des divergences (C-15),,Source officielle
+Canada,7. Sanctions financières et gel des avoirs,1,Sanctions,"Code criminel (art. 83.08 et s.), Loi sur les mesures économiques spéciales, Loi Sergueï Magnitski",,Source officielle
+Canada,8. Organismes de référence,1,GAFI et Groupe Egmont,Membre du GAFI,https://www.fatf-gafi.org,Source officielle
+Mexique,1. Cadre légal LCB-FT,1,LFPIORPI réformée et Reglas generales,"Règles générales du 7 août 2026, en vigueur le 30 novembre 2026",https://www.uif.gob.mx,À confirmer
+Mexique,1. Cadre légal LCB-FT,2,Art. 115 de la Ley de Instituciones de Crédito,Disposiciones de carácter general (DCG) de la CNBV,,À confirmer
+Mexique,2. Entités assujetties,1,Entités financières,"Banques, SOFOM, casas de cambio, institutions de technologie financière (ITF)",,Source officielle
+Mexique,2. Entités assujetties,2,Actividades vulnerables,"Immobilier, bijouterie, véhicules, jeux, notaires, dons, actifs virtuels…",https://sppld.sat.gob.mx,Source officielle
+Mexique,3. Autorités de contrôle,1,Superviseurs,"CNBV, CNSF, CONSAR ; SAT pour les actividades vulnerables",,Source officielle
+Mexique,4. Déclaration de soupçon : à qui et comment,1,Cellule de renseignement financier,UIF (Unidad de Inteligencia Financiera),https://www.uif.gob.mx,Source officielle
+Mexique,4. Déclaration de soupçon : à qui et comment,2,Canal,Reportes d'opérations inhabituelles et préoccupantes (entités financières) ; avisos sur le portail du SAT (actividades vulnerables),https://sppld.sat.gob.mx,À confirmer
+Mexique,5. Seuils et limites de transaction,1,Espèces,Restrictions d'usage des espèces pour les actividades vulnerables (art. 32 LFPIORPI) ; seuils à confirmer,,À confirmer
+Mexique,"6. Bénéficiaire effectif, KYC et KYB",1,Bénéficiaire contrôlant,"25 % (réforme 2025), exigible au 1er mars 2027 pour les actividades vulnerables",,À confirmer
+Mexique,7. Sanctions financières et gel des avoirs,1,Liste des personnes bloquées,Tenue par l'UIF,https://www.uif.gob.mx,Source officielle
+Mexique,8. Organismes de référence,1,GAFI et GAFILAT,Rapport d'évaluation mutuelle du GAFI attendu en décembre 2026,https://www.gafilat.org,Source officielle
+République dominicaine,1. Cadre légal LCB-FT,1,Ley 155-17 et décrets 407-17 et 408-17,Loi LBC/FT et règlements d'application,https://www.uaf.gob.do,À confirmer
+République dominicaine,2. Entités assujetties,1,Sujetos obligados,"Entités financières ; sujetos obligados no financieros (casinos, loteries, immobilier, notaires, avocats, comptables, joailliers, concessionnaires)",,Source officielle
+République dominicaine,3. Autorités de contrôle,1,Superviseurs,"SB, SIMV, SIPEN, Superintendencia de Seguros, DGII (non financiers)",https://www.sb.gob.do,Source officielle
+République dominicaine,4. Déclaration de soupçon : à qui et comment,1,Cellule de renseignement financier,UAF (Unidad de Análisis Financiero),https://www.uaf.gob.do,Source officielle
+République dominicaine,4. Déclaration de soupçon : à qui et comment,2,Canal et délai,Reporte de operación sospechosa (ROS) — délai légal à confirmer,,À confirmer
+République dominicaine,5. Seuils et limites de transaction,1,Transactions en espèces,Reporte de transacciones en efectivo (RTE) — seuil à confirmer,,À confirmer
+République dominicaine,"6. Bénéficiaire effectif, KYC et KYB",1,Bénéficiaire final,Seuil à confirmer dans la Ley 155-17,,À confirmer
+République dominicaine,7. Sanctions financières et gel des avoirs,1,Sanctions financières ciblées,Décret 407-17,,À confirmer
+République dominicaine,8. Organismes de référence,1,GAFILAT et Groupe Egmont,Protocole d'accord UAF – UCREF (2023),https://www.gafilat.org,Source officielle

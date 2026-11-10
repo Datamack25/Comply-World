@@ -1,0 +1,15 @@
+﻿secteur,vulnerabilite,niveau
+Banque,0.43,Moyennement faible à moyen
+Titres,0.36,Moyennement faible
+Autres institutions financières (AIF),0.45,Moyen
+Assurances,0.5,Moyen
+Maisons de transfert,0.6,Moyennement élevé
+Caisses d'épargne et de crédit,0.6,Moyennement élevé
+Institutions de microfinance,0.4,Moyen
+Bureaux de change,0.3,Moyennement faible
+Sociétés financières de développement,0.2,Moyennement faible
+Jeux de hasard,0.86,Élevé
+Immobilier,0.86,Élevé
+Comptables,0.73,Moyennement élevé
+Avocats,0.73,Moyennement élevé
+Notaires,0.72,Moyennement élevé

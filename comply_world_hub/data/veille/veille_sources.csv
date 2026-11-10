@@ -1,0 +1,21 @@
+﻿nom,type,url,juridiction,theme,actif
+GAFI — listes noire et grise,page,https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html,International,Pays à risque,1
+AMLA — site officiel,page,https://www.amla.europa.eu,UE,Réglementation,1
+OFAC — Recent Actions,page,https://ofac.treasury.gov/recent-actions,États-Unis,Sanctions,1
+FinCEN — News,page,https://www.fincen.gov/news-room,États-Unis,Réglementation,1
+CANAFE — Nouveautés,page,https://fintrac-canafe.canada.ca/new-neuf/1-fra,Canada,Réglementation,1
+BRH — Chronologie des activités,page,https://www.brh.ht/category/chronologie-des-activites/,Haïti,Réglementation,1
+UCREF — site officiel,page,https://www.ucref.gouv.ht,Haïti,Réglementation,1
+Actualités — AMLA / AMLR,rss,https://news.google.com/rss/search?q=AMLA+OR+AMLR+blanchiment&hl=fr&gl=FR&ceid=FR:fr,UE,Réglementation,1
+"Actualités — LCB-FT France (ACPR, Tracfin)",rss,https://news.google.com/rss/search?q=LCB-FT+ACPR+OR+Tracfin&hl=fr&gl=FR&ceid=FR:fr,France,Réglementation,1
+Actualités — GAFI liste grise,rss,https://news.google.com/rss/search?q=GAFI+liste+grise&hl=fr&gl=FR&ceid=FR:fr,International,Pays à risque,1
+"Actualités — Haïti blanchiment (UCREF, BRH)",rss,https://news.google.com/rss/search?q=Ha%C3%AFti+UCREF+OR+BRH+blanchiment&hl=fr&gl=FR&ceid=FR:fr,Haïti,Réglementation,1
+Actualités — Haïti sanctions,rss,https://news.google.com/rss/search?q=Haiti+sanctions+OFAC+OR+%22UN+Security+Council%22&hl=en-US&gl=US&ceid=US:en,Haïti,Sanctions,1
+News — FinCEN AML rule,rss,https://news.google.com/rss/search?q=FinCEN+AML+rule&hl=en-US&gl=US&ceid=US:en,États-Unis,Réglementation,1
+News — FINTRAC PCMLTFA,rss,https://news.google.com/rss/search?q=FINTRAC+PCMLTFA&hl=en-US&gl=US&ceid=US:en,Canada,Réglementation,1
+Noticias — UIF México LFPIORPI,rss,https://news.google.com/rss/search?q=LFPIORPI+UIF+lavado&hl=es-419&gl=MX&ceid=MX:es-419,Mexique,Réglementation,1
+Noticias — UAF República Dominicana,rss,https://news.google.com/rss/search?q=UAF+Rep%C3%BAblica+Dominicana+lavado+de+activos&hl=es-419&gl=MX&ceid=MX:es-419,République dominicaine,Réglementation,1
+Actualités — sanctions UE,rss,https://news.google.com/rss/search?q=sanctions+UE+gel+des+avoirs&hl=fr&gl=FR&ceid=FR:fr,UE,Sanctions,1
+UCREF — Événements,page,https://ucref.gouv.ht/evenements.php,Haïti,Réglementation,1
+BRH — Circulaires,page,https://www.brh.ht/notes-de-presse/?act=circulaires,Haïti,Réglementation,1
+Actualités — UNODC Haïti corruption,rss,https://news.google.com/rss/search?q=UNODC+Ha%C3%AFti+corruption&hl=fr&gl=FR&ceid=FR:fr,Haïti,Corruption,1
